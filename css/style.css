@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+.wrapper {
+  width: 100%;
+}
+
+.square-row {
+  display: flex;
+  justify-content: center;
+  background-color: lavender;
+}
+
+.square {
+  width: 65px;
+  height: 65px;
+  background-color: white;
+border: 1px solid black;
+}
